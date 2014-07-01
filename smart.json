@@ -1,0 +1,15 @@
+{
+  "name": "meteor-authentication",
+  "description": "Authentication based on accounts-template with a few defaults and support for beta invitation code. Not meant to be used by anyone but me :)",
+  "homepage": "",
+  "author": "Gildas Garcia <gildas.garcia@gmail.com>",
+  "version": "0.0.1",
+  "git": "https://github.com/djhi/meteor-authentication.git",
+  "packages": {
+    "iron-router": {},
+    "bootstrap-3": {},
+    "accounts-templates-bootstrap": {
+      "git": "https://github.com/djhi/accounts-templates-bootstrap.git"
+    }
+  }
+}
