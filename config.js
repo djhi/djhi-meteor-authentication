@@ -22,7 +22,7 @@ Meteor.startup(function() {
     postSignUpRoutePath: '/newCustomer',
   });
 
-  if (Meteor.settings.public.useInvitationCode) {
+  if (Meteor.settings && Meteor.settings.public && Meteor.settings.public.useInvitationCode) {
     AccountsTemplates.addField({
       name: 'invitationCode',
       type: 'text',
