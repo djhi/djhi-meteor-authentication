@@ -1,4 +1,4 @@
-meteor-authentication
+djhi-meteor-authentication
 =====================
 
 Authentication based on accounts-template with default configuration and a few additions:

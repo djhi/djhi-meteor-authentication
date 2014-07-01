@@ -1,5 +1,5 @@
 {
-  "name": "meteor-authentication",
+  "name": "djhi-meteor-authentication",
   "description": "Authentication based on accounts-template with a few defaults and support for beta invitation code. Not meant to be used by anyone but me :)",
   "homepage": "",
   "author": "Gildas Garcia <gildas.garcia@gmail.com>",
